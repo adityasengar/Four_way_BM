@@ -144,6 +144,3 @@ All plots are generated in PNG, TIFF, and EPS formats for different publication 
 3. **Python package errors**: Verify NumPy and Matplotlib are properly installed
 4. **Memory issues**: The analysis processes large datasets; ensure sufficient RAM is available
 
-### Support
-
-If you encounter issues not covered here, please [create an issue/contact information].
