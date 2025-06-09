@@ -14,8 +14,7 @@ This repository contains oxDNA simulation data and Python analysis scripts for p
 - [Detailed Analysis Workflow](#detailed-analysis-workflow)
 - [Data Description](#data-description)
 - [Output Files](#output-files)
-- [Citation](#citation)
-- [License](#license)
+
 
 ## Overview
 
