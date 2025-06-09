@@ -138,32 +138,6 @@ The 2-bulge analysis uses three umbrella sampling windows:
 
 All plots are generated in PNG, TIFF, and EPS formats for different publication requirements.
 
-## Citation
-
-If you use this data or code, please cite:
-
-```bibtex
-@article{bakhtawar2025dna,
-  title={Overcoming the speed limit of four-way DNA branch migration with bulges in toeholds},
-  author={Bakhtawar, S. and Smith, F. and Sengar, A. and Stan, G.-B. V. and Ouldridge, T. E. and Stevens, M. and Goertz, J. and Bae, W.},
-  journal={Journal Name},
-  volume={Volume},
-  number={Issue},
-  pages={Pages},
-  year={2025}
-}
-```
-
-## License
-
-[Add your license information here]
-
-## Contact
-
-For questions about this analysis or data, please contact [contact information].
-
-## Troubleshooting
-
 ### Common Issues
 
 1. **Missing data folders**: Ensure all required directories exist with the exact names shown above
