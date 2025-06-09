@@ -60,11 +60,8 @@ The simulations were run using the Virtual Move Monte Carlo (VMMC) algorithm. In
 1. Clone the repository and navigate into the project directory.
 2. Ensure your `data/` directory is structured as shown above.
 3. Install the required Python packages.
-4. Run the entire analysis pipeline with a single command:
-
-```bash
-python generate_figure_5.py
-```
+4. Download the data. Before running the script, download the Simulation_data_analysis.zip file from the following link: https://zenodo.org/records/15623394. Unzip it, and ensure the data folder is in the same directory as the Python/Jupyter notebook.
+5. Run the entire analysis pipeline in the jupyter notebook
 
 The script will print its progress and create two directories: `wham_analysis_output/` for intermediate data and `final_plots/` for the final figures.
 
