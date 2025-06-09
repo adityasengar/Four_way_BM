@@ -18,7 +18,7 @@ For the analysis to run correctly, your data must be organized in the following 
 
 ```
 your_project_folder/
-├── generate_figure_5.py
+├── generate_figure_5.ipynb
 ├── README.md
 └── data/
     ├── diff_w1*, diff_w1x*, etc. # 1-bulge system folders
